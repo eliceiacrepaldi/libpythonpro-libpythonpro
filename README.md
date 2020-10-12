@@ -1,4 +1,4 @@
-Python Birds
+Neste curso é ensinado como contribuir com projeto de código aberto
 ===========
 
 Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
