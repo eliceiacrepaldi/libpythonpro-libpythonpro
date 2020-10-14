@@ -1,6 +1,6 @@
 Neste curso é ensinado como contribuir com projeto de código aberto
 ========
-link do curso python pro (http>//pythonprobr.appspot.com/)
+link do curso [Python Pro] (http>//pythonprobr.appspot.com/)
 
 Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
 
