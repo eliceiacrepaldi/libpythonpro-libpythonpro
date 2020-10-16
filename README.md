@@ -2,6 +2,8 @@ Neste curso é ensinado como contribuir com projeto de código aberto
 ========
 _**link do curso [Python Pro] (http>//pythonprobr.appspot.com/)_**
 tópicos a serem abordados:
+
+suportada versão 3.6 de python
 1. git
 2. virtualenv
 Essa versão é a mais simples. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
